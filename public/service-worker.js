@@ -2,8 +2,8 @@ const cacheName = 'podcast-player-v1';
 const assetsToCache = [
   '/',
   '/index.html',
-  'styles.css',
-  'script.js',
+  '/styles.css',
+  '/script.js',
   '/podcast-icon-192.png',
   '/podcast-icon-512.png',
   '/podcast-icon.png',
